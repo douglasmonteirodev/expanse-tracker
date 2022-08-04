@@ -2,6 +2,11 @@
 
 ## GitPage: https://douglasmonteirodev.github.io/expanse-tracker/build/
 
+ <p align="center">
+      <img src="src/assets/preview/home_preview.png">
+</p>
+
+
 ### Objetivo desse projeto foi criar um gestor de receitas e despesas mensais.
 
 ## Descrição
